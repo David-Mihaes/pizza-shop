@@ -1,2 +1,2 @@
 # pizza-shop
-Pizza Shop Website
+Pizza Shop
